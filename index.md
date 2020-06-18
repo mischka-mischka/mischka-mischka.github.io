@@ -6,3 +6,5 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 * Merkmal 1
 * 2. Merkmal
 * manche Figuren haben auch ein drittes Merkmal
+
+> Die ist ein Zitat des Charakters.
